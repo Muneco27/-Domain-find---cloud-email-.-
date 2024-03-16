@@ -1,0 +1,40 @@
+{
+  "title": "F003591F-4A43-410F-A6A9-4E68E51B5DBA.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1659679827",
+    "formatted": "5 ago 2022, 6:10:27 a.m. UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1594145422",
+    "formatted": "7 jul 2020, 6:10:22 p.m. UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Lisandra Serret"
+  }, {
+    "name": "Jennifer"
+  }, {
+    "name": "Juliette"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMzoqanVuPZaMYTOsNf6reJLalDFJTAcu6UkTH7",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "IOS_PHONE"
+    }
+  }
+}
